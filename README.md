@@ -1,6 +1,6 @@
 ### Hi, I'm Túlio 👋 
 - 🇧🇷 I'm from Brazil
--  I like to be mainly committed to developing new solutions with new technologies.
+-  I like to be mainly committed to developing new solutions and new technologies.
 -  I like a team that delivers documented and standardized projects with colleagues who have the fastest work pace. 
  
 # 💪 Skills:
